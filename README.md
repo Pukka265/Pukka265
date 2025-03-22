@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pukka265 
 - 👀 I’m interested in ...GIS
 - 🌱 I’m currently learning ... programming python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...GIS projects
+  
+- 📫 How to reach me ... kambalimbikani265@gmail.com
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ... I'm here to take over dude😌
 
